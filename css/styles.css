@@ -1,0 +1,10 @@
+.thumbnail {
+  text-align: center;
+}
+.thumbnail img {
+  width: 90%;
+}
+
+.elephant, .hippo, .giraffe {
+  display: none;
+}
