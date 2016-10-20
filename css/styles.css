@@ -5,6 +5,14 @@
   width: 90%;
 }
 
-.elephant, .hippo, .giraffe {
+#elephantpage {
   display: none;
 }
+
+ #hippopage {
+   display: none;
+ }
+
+ #giraffepage {
+   display: none;
+ }
